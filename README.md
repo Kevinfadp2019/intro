@@ -1,2 +1,1 @@
-# intro
-introduccion a repositorio remotos
+Cuento de humor
